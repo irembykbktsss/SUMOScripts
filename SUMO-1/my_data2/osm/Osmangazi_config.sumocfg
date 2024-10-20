@@ -1,0 +1,6 @@
+<configuration>
+<input>
+<net-file value="C:\Users\MONSTER\Documents\GitHub\SUMOScripts\SUMO-1\my_data2\osm\Osmangazi.net.xml"/>
+<route-files value="C:\Users\MONSTER\Documents\GitHub\SUMOScripts\SUMO-1\my_data2\osm\Osmangazi_routes.xml"/>
+</input>
+</configuration>
